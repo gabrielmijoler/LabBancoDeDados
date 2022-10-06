@@ -1,1 +1,1 @@
-# MySQL
+# Exercicios feitos com MySQL Manager
